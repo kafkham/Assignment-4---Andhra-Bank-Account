@@ -1,4 +1,4 @@
-//Kasra Afkham-Ebrahimi, McGill ID #260517717
+//Kasra Afkham
 
 import java.util.Scanner;
 
